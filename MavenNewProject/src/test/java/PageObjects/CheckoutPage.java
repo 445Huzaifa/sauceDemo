@@ -14,7 +14,7 @@ public class CheckoutPage extends BasePage {
 
     private By lastNameField = By.id("last-name");
 
-    private By postalCodeField = By.id("c");
+    private By postalCodeField = By.id("postal-code");
 
     private By clickContinue = By.id("continue");
 
